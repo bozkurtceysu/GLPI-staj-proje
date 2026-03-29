@@ -1,2 +1,2 @@
-# GLPI-staj-proje
+# GLPI-proje
 GLPI yazılımına ait görseller
